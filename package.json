@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-11-user-registration-and-login-example",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.10",
+    "bcryptjs": "^2.4.3",
+    "express-jwt": "^7.7.7",
+    "jsonwebtoken": "^8.5.1",
+    "next": "^13.0.6",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.40.0",
+    "rxjs": "^7.6.0",
+    "yup": "^0.32.11"
+  },
+  "keywords": [],
+  "description": "https://jasonwatmore.com/post/2021/08/19/next-js-11-user-registration-and-login-tutorial-with-example-app"
+}
